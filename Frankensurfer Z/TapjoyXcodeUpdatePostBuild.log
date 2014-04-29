@@ -1,0 +1,139 @@
+--- Updating Unity-iPhone.xcodeproj/project.pbxproj for Tapjoy integration ---
+Initializing XcodeProject...
+Found UUID for the PBXNativeTarget: 1D6058960D05DD3E006BFB54
+Build phases:
+	{'Frameworks': '1D60588F0D05DD3D006BFB54', 'Sources': '1D60588E0D05DD3D006BFB54', 'Resources': '1D60588D0D05DD3D006BFB54', 'CopyFiles': '83D0C1FD0E6C8D7700EBCE5D'}
+Adding group "Tapjoy"
+group [Tapjoy] doesnt exist.	creating it now.
+Enabling Obj-C exceptions
+Adding file reference CoreTelephony.framework
+Adding file CoreTelephony.framework to group Frameworks
+Weak linking framework: CoreTelephony.framework
+Adding build file CoreTelephony.framework
+Adding CoreTelephony.framework to build phase Frameworks
+Adding file reference AdSupport.framework
+Adding file AdSupport.framework to group Frameworks
+Weak linking framework: AdSupport.framework
+Adding build file AdSupport.framework
+Adding AdSupport.framework to build phase Frameworks
+Adding file reference Social.framework
+Adding file Social.framework to group Frameworks
+Weak linking framework: Social.framework
+Adding build file Social.framework
+Adding Social.framework to build phase Frameworks
+Adding file reference StoreKit.framework
+Adding file StoreKit.framework to group Frameworks
+Weak linking framework: StoreKit.framework
+Adding build file StoreKit.framework
+Adding StoreKit.framework to build phase Frameworks
+Adding file reference Twitter.framework
+Adding file Twitter.framework to group Frameworks
+Weak linking framework: Twitter.framework
+Adding build file Twitter.framework
+Adding Twitter.framework to build phase Frameworks
+Adding file reference libxml2.dylib
+Adding file libxml2.dylib to group Frameworks
+Adding build file libxml2.dylib
+Adding libxml2.dylib to build phase Frameworks
+Adding file reference libsqlite3.0.dylib
+Adding file libsqlite3.0.dylib to group Frameworks
+Adding build file libsqlite3.0.dylib
+Adding libsqlite3.0.dylib to build phase Frameworks
+Adding file reference libz.dylib
+Adding file libz.dylib to group Frameworks
+Adding build file libz.dylib
+Adding libz.dylib to build phase Frameworks
+Adding file reference MobileCoreServices.framework
+Adding file MobileCoreServices.framework to group Frameworks
+Adding build file MobileCoreServices.framework
+Adding MobileCoreServices.framework to build phase Frameworks
+File reference already exists: CFNetwork.framework
+Adding file reference EventKit.framework
+Adding file EventKit.framework to group Frameworks
+Adding build file EventKit.framework
+Adding EventKit.framework to build phase Frameworks
+Adding file reference EventKitUI.framework
+Adding file EventKitUI.framework to group Frameworks
+Adding build file EventKitUI.framework
+Adding EventKitUI.framework to build phase Frameworks
+File reference already exists: CoreMotion.framework
+Adding file reference MessageUI.framework
+Adding file MessageUI.framework to group Frameworks
+Adding build file MessageUI.framework
+Adding MessageUI.framework to build phase Frameworks
+File reference already exists: CoreLocation.framework
+File reference already exists: SystemConfiguration.framework
+File reference already exists: MediaPlayer.framework
+File reference already exists: UIKit.framework
+File reference already exists: Foundation.framework
+File reference already exists: CoreGraphics.framework
+Adding file reference TapjoyResources.bundle
+Adding file TapjoyResources.bundle to group Tapjoy
+adding default resource file: TapjoyResources.bundle
+Adding build file TapjoyResources.bundle
+Adding TapjoyResources.bundle to build phase Resources
+could not find wrapper type for file: TapjoyResources.bundle.meta
+Adding file reference TapjoyResources.bundle.meta
+Adding file TapjoyResources.bundle.meta to group Tapjoy
+adding default resource file: TapjoyResources.bundle.meta
+Adding build file TapjoyResources.bundle.meta
+Adding TapjoyResources.bundle.meta to build phase Resources
+could not find wrapper type for file: Resources.meta
+Adding file reference Resources.meta
+Adding file Resources.meta to group Tapjoy
+adding default resource file: Resources.meta
+Adding build file Resources.meta
+Adding Resources.meta to build phase Resources
+adding custom framework: Tapjoy.framework
+Adding file reference Tapjoy.framework
+Adding file Tapjoy.framework to group Tapjoy
+Adding build file Tapjoy.framework
+Adding Tapjoy.framework to build phase Frameworks
+adding framework search path /Users/leticiaagudo/Documents/00 WakaLaps/00 Games In Development/09 Frankinsurfer/FS files/Frankensurfer Z/Assets/WebPlayerTemplates/Tapjoy/iOS/ for folder: Tapjoy
+could not find wrapper type for file: Tapjoy.framework.meta
+Adding file reference Tapjoy.framework.meta
+Adding file Tapjoy.framework.meta to group Tapjoy
+adding default resource file: Tapjoy.framework.meta
+Adding build file Tapjoy.framework.meta
+Adding Tapjoy.framework.meta to build phase Resources
+Adding file reference TapjoyConnectPlugin.h
+Adding file TapjoyConnectPlugin.h to group Tapjoy
+adding file ref: TapjoyConnectPlugin.h
+could not find wrapper type for file: TapjoyConnectPlugin.h.meta
+Adding file reference TapjoyConnectPlugin.h.meta
+Adding file TapjoyConnectPlugin.h.meta to group Tapjoy
+adding default resource file: TapjoyConnectPlugin.h.meta
+Adding build file TapjoyConnectPlugin.h.meta
+Adding TapjoyConnectPlugin.h.meta to build phase Resources
+Adding file reference TapjoyConnectPlugin.mm
+Adding file TapjoyConnectPlugin.mm to group Tapjoy
+adding build file: TapjoyConnectPlugin.mm
+Adding build file TapjoyConnectPlugin.mm
+Adding TapjoyConnectPlugin.mm to build phase Sources
+could not find wrapper type for file: TapjoyConnectPlugin.mm.meta
+Adding file reference TapjoyConnectPlugin.mm.meta
+Adding file TapjoyConnectPlugin.mm.meta to group Tapjoy
+adding default resource file: TapjoyConnectPlugin.mm.meta
+Adding build file TapjoyConnectPlugin.mm.meta
+Adding TapjoyConnectPlugin.mm.meta to build phase Resources
+Adding file reference TapjoyEventPlugin.h
+Adding file TapjoyEventPlugin.h to group Tapjoy
+adding file ref: TapjoyEventPlugin.h
+could not find wrapper type for file: TapjoyEventPlugin.h.meta
+Adding file reference TapjoyEventPlugin.h.meta
+Adding file TapjoyEventPlugin.h.meta to group Tapjoy
+adding default resource file: TapjoyEventPlugin.h.meta
+Adding build file TapjoyEventPlugin.h.meta
+Adding TapjoyEventPlugin.h.meta to build phase Resources
+Adding file reference TapjoyEventPlugin.mm
+Adding file TapjoyEventPlugin.mm to group Tapjoy
+adding build file: TapjoyEventPlugin.mm
+Adding build file TapjoyEventPlugin.mm
+Adding TapjoyEventPlugin.mm to build phase Sources
+could not find wrapper type for file: TapjoyEventPlugin.mm.meta
+Adding file reference TapjoyEventPlugin.mm.meta
+Adding file TapjoyEventPlugin.mm.meta to group Tapjoy
+adding default resource file: TapjoyEventPlugin.mm.meta
+Adding build file TapjoyEventPlugin.mm.meta
+Adding TapjoyEventPlugin.mm.meta to build phase Resources
+--- Finished Tapjoy integration ---

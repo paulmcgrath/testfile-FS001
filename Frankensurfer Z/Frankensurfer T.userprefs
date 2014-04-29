@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FacebookManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FrankensurferControls.cs" Line="195" Column="22" />
+      <File FileName="Assets\Scripts\FacebookManager.cs" Line="145" Column="70" />
+      <File FileName="Assets\Scripts\ScoreTracker.cs" Line="58" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
